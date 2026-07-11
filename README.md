@@ -4,26 +4,26 @@
 
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,25:0a1628,50:0f2a4a,75:163d6b,100:1a73e8&text=AHMED%20RAZA&fontColor=ffffff&fontSize=70&fontAlignY=40&animation=twinkling&desc=AI%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Edge%20Computing%20%E2%80%A2%20IoT&descAlignY=62&descSize=18&descColor=58a6ff&stroke=58a6ff&strokeWidth=1" width="100%"/>
+<!-- HEADER — works in both light & dark mode -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,19,24,30&text=Ahmed%20Raza&fontColor=auto&fontSize=60&fontAlignY=35&animation=twinkling&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Edge%20Computing&descAlignY=55&descSize=17" width="100%"/>
 
-<!-- ANIMATED WAVE + PROFILE VIEWS -->
 <br>
 
+<!-- TYPING SVG -->
 <a href="https://github.com/ahmed-raza19">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=45&lines=%F0%9F%94%A5+Building+AI+systems+that+see%2C+think+%26+act;%F0%9F%A7%A0+From+edge+hardware+to+cloud+architectures;%F0%9F%9A%80+Turning+research+into+real-world+products;%F0%9F%8C%8D+Islamabad%2C+Pakistan+%C2%B7+FAST+NUCES+%C2%B7+BS+AI;%E2%9A%A1+18+repos+%C2%B7+Python+%C2%B7+JavaScript+%C2%B7+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=45&lines=%F0%9F%94%A5+Building+AI+systems+that+see%2C+think+%26+act;%F0%9F%A7%A0+From+edge+hardware+to+cloud+architectures;%F0%9F%9A%80+Turning+research+into+real-world+products;%F0%9F%8C%8D+Islamabad%2C+Pakistan+%C2%B7+FAST+NUCES+%C2%B7+BS+AI;%E2%9A%A1+18+repos+%C2%B7+Python+%C2%B7+JavaScript+%C2%B7+TypeScript" alt="Typing SVG" />
 </a>
 
 <br>
 
 <!-- PROFILE BADGES -->
-<img src="https://komarev.com/ghpvc/?username=ahmed-raza19&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ahmed-raza19&style=for-the-badge&color=6C63FF&labelColor=555555&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
-<a href="https://github.com/ahmed-raza19?tab=repositories"><img src="https://img.shields.io/badge/REPOS-18-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Repos"/></a>
+<a href="https://github.com/ahmed-raza19?tab=repositories"><img src="https://img.shields.io/badge/REPOS-18-6C63FF?style=for-the-badge&labelColor=555555" alt="Repos"/></a>
 &nbsp;
-<a href="https://github.com/ahmed-raza19?tab=followers"><img src="https://img.shields.io/github/followers/ahmed-raza19?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/></a>
+<a href="https://github.com/ahmed-raza19?tab=followers"><img src="https://img.shields.io/github/followers/ahmed-raza19?style=for-the-badge&color=6C63FF&labelColor=555555&label=FOLLOWERS" alt="Followers"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-blueviolet?style=for-the-badge&labelColor=0d1117" alt="Focus"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-6C63FF?style=for-the-badge&labelColor=555555" alt="Focus"/>
 
 </div>
 
@@ -38,36 +38,39 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TERMINAL ABOUT ME                           -->
+<!--                    ABOUT ME                                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;`$ whoami`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
 
-```js
-const ahmedRaza = {
-    location: "Islamabad, Pakistan 🇵🇰",
-    education: "BS Artificial Intelligence @ FAST NUCES",
-    roles: ["AI Engineer", "Full-Stack Developer", "IoT Builder"],
-    
-    currentlyBuilding: [
-        "🔭 Edge AI navigation systems for the visually impaired",
-        "🌱 Autonomous plant disease detection rovers",
-        "🤖 RAG-powered intelligent chatbots",
-    ],
-    
-    philosophy: "I don't just write code — I build systems that see, think, and act.",
-    
-    funFact: "I once built a rover that can diagnose plant diseases better than most farmers 🌿",
-    
-    dailyStack: {
-        ai_ml:      ["Python", "TensorFlow", "YOLOv8", "OpenCV", "FAISS", "Groq"],
-        backend:    ["Node.js", "Express", "FastAPI", "MongoDB", "REST APIs"],
-        frontend:   ["React", "TypeScript", "HTML/CSS"],
-        iot:        ["ESP32-CAM", "MQTT", "TFLite", "Edge Deployment"],
-        tools:      ["Git", "Linux", "Docker", "VS Code"],
-    }
-};
-```
+<table>
+<tr>
+<td width="60%">
+
+> ### *I don't just write code — I build systems that **see**, **think**, and **act**.*
+
+🎓 &nbsp; **BS Artificial Intelligence** @ FAST NUCES, Islamabad
+
+🇵🇰 &nbsp; Based in **Islamabad, Pakistan**
+
+🔭 &nbsp; Currently building **Edge AI navigation for the visually impaired**
+
+🌱 &nbsp; Built an **autonomous rover** that diagnoses plant diseases using YOLOv8
+
+🤖 &nbsp; Working on **RAG-powered chatbots** & LLM pipelines
+
+☕ &nbsp; Created a **queue-free campus ordering system** used at FAST
+
+⚡ &nbsp; Fun fact: My rover can diagnose plant diseases **better than most farmers** 🌿
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ3Z2FrZm93eDBjNTRtY2F0NXBiNWhjcjh5cHF5bWphNGtnYnN3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Animation"/>
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -136,57 +139,80 @@ const ahmedRaza = {
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!-- PROJECT 1 -->
-<a href="https://github.com/ahmed-raza19/EchoSight-EdgeAI-Navigation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-raza19&repo=EchoSight-EdgeAI-Navigation&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=F8D866&text_color=c9d1d9" width="49%"/>
-</a>
-<a href="https://github.com/ahmed-raza19/PlantEye">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-raza19&repo=PlantEye&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=F8D866&text_color=c9d1d9" width="49%"/>
-</a>
+### 🧿 [EchoSight](https://github.com/ahmed-raza19/EchoSight-EdgeAI-Navigation)
+Low-latency **spatial awareness** and computer vision pipeline — an automated safety layer for **visually impaired** individuals running on edge hardware.
 
-<br>
+`Python` `OpenCV` `Edge AI` `Computer Vision`
 
-<!-- PROJECT 2 -->
-<a href="https://github.com/ahmed-raza19/q-less-cafe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-raza19&repo=q-less-cafe&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=F8D866&text_color=c9d1d9" width="49%"/>
-</a>
-<a href="https://github.com/ahmed-raza19/rag-faq-chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-raza19&repo=rag-faq-chatbot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=F8D866&text_color=c9d1d9" width="49%"/>
-</a>
+</td>
+<td width="50%" valign="top">
 
-<br>
+### 🌱 [PlantEye](https://github.com/ahmed-raza19/PlantEye)
+Autonomous **ESP32-CAM rover** that detects plants with **YOLOv8**, diagnoses leaf diseases with **TFLite**, and streams live results over **MQTT**.
 
-<!-- PROJECT 3 -->
-<a href="https://github.com/ahmed-raza19/document-qa-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-raza19&repo=document-qa-system&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=F8D866&text_color=c9d1d9" width="49%"/>
-</a>
-<a href="https://github.com/ahmed-raza19/email-classification-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-raza19&repo=email-classification-system&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=F8D866&text_color=c9d1d9" width="49%"/>
-</a>
+`YOLOv8` `TensorFlow Lite` `ESP32` `MQTT` `IoT`
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<br>
+### ☕ [Q-Less Cafe](https://github.com/ahmed-raza19/q-less-cafe)
+Full-stack **queue-free campus ordering** system with real-time order tracking, digital tokens, and role-based dashboards.
 
-<!-- PROJECT DETAILS TABLE -->
-<details>
-<summary><b>📋 Click to expand full project descriptions</b></summary>
-<br>
+`Node.js` `Express` `MongoDB` `Real-time`
 
-| # | Project | Description | Tech |
-|:-:|:--------|:------------|:-----|
-| 🧿 | [**EchoSight**](https://github.com/ahmed-raza19/EchoSight-EdgeAI-Navigation) | Low-latency spatial awareness and computer vision pipeline acting as an automated hardware safety layer for visually impaired individuals | `Python` `OpenCV` `Edge AI` |
-| 🌱 | [**PlantEye**](https://github.com/ahmed-raza19/PlantEye) | Autonomous ESP32-CAM rover that detects plants with YOLOv8, diagnoses leaf diseases with TFLite, and streams live results over MQTT | `YOLOv8` `TFLite` `ESP32` `MQTT` |
-| ☕ | [**Q-Less Cafe**](https://github.com/ahmed-raza19/q-less-cafe) | Full-stack queue-free cafeteria ordering system with real-time order tracking, digital tokens, and role-based dashboards | `Node.js` `Express` `MongoDB` |
-| 🤖 | [**RAG FAQ Bot**](https://github.com/ahmed-raza19/rag-faq-chatbot) | FAQ chatbot using sentence embeddings, FAISS vector search, and the Groq API for retrieval-augmented answer generation | `Python` `FAISS` `Groq` |
-| 📄 | [**Document QA**](https://github.com/ahmed-raza19/document-qa-system) | Upload a PDF and ask questions about it using TF-IDF and cosine similarity retrieval | `FastAPI` `pdfplumber` |
-| 📧 | [**Email Classifier**](https://github.com/ahmed-raza19/email-classification-system) | Classifies emails into Inquiry, Complaint, Feedback, or Spam using TF-IDF, logistic regression, and a rule-based spam filter | `FastAPI` `ML` |
-| 🔄 | [**AI Workflow**](https://github.com/ahmed-raza19/ai-workflow-automation) | Automates customer support ticket triage and routing with an LLM-based decision pipeline and rule-based fallback | `LLM` `CSS` `Automation` |
-| 🚗 | [**RideFlow**](https://github.com/ahmed-raza19/RideFlow) | Ride-hailing platform inspired by Uber/Careem connecting riders with nearby drivers | `TypeScript` `Full-Stack` |
+</td>
+<td width="50%" valign="top">
 
-</details>
+### 🤖 [RAG FAQ Bot](https://github.com/ahmed-raza19/rag-faq-chatbot)
+FAQ chatbot using **sentence embeddings**, **FAISS** vector search, and the **Groq API** for retrieval-augmented answer generation.
+
+`Python` `FAISS` `Groq` `NLP` `RAG`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 [Document QA](https://github.com/ahmed-raza19/document-qa-system)
+Upload a PDF and ask questions — uses **TF-IDF** and cosine similarity to retrieve the most relevant excerpts.
+
+`FastAPI` `pdfplumber` `NLP` `ML`
+
+</td>
+<td width="50%" valign="top">
+
+### 📧 [Email Classifier](https://github.com/ahmed-raza19/email-classification-system)
+Classifies emails into Inquiry, Complaint, Feedback, or Spam using **TF-IDF**, logistic regression, and a rule-based spam filter.
+
+`FastAPI` `scikit-learn` `NLP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 [AI Workflow](https://github.com/ahmed-raza19/ai-workflow-automation)
+Automates customer support **ticket triage and routing** with an LLM-based decision pipeline and rule-based fallback for reliability.
+
+`LLM` `Automation` `Pipeline`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 [RideFlow](https://github.com/ahmed-raza19/RideFlow)
+Ride-hailing platform inspired by **Uber/Careem/InDrive** — connects riders with nearby drivers in real-time.
+
+`TypeScript` `Full-Stack` `Real-time`
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -261,9 +287,42 @@ const ahmedRaza = {
   <img alt="github-snake" src="https://raw.githubusercontent.com/ahmed-raza19/ahmed-raza19/output/github-snake-dark.svg" />
 </picture>
 
-> 💡 *Set up the [snake workflow](https://github.com/Platane/snk) in your profile repo to activate this!*
-
 </div>
+
+<!-- 🐍 HOW TO ACTIVATE THE SNAKE:
+
+1. In your profile repo (ahmed-raza19/ahmed-raza19), create the file:
+   .github/workflows/snake.yml
+
+2. Paste this EXACT content into it:
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ahmed-raza19
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+3. Go to your repo's Actions tab and run "Generate Snake" manually once.
+4. Done! The snake will auto-update daily.
+-->
 
 <br>
 

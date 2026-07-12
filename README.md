@@ -4,8 +4,25 @@
 
 <div align="center">
 
-<!-- HEADER — vibrant gradient, works on light + dark -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FF3CAC,25:784BA0,50:2B86C5,75:00C9FF,100:92FE9D&text=Ahmed%20Raza&fontColor=ffffff&fontSize=65&fontAlignY=35&animation=twinkling&desc=%E2%9A%A1%20AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Edge%20Computing%20%E2%9A%A1&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+<!-- GRADIENT TOP LINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:FF3CAC,25:784BA0,50:2B86C5,75:00C9FF,100:A855F7" width="100%"/>
+
+<br><br>
+
+<!-- ANIMATED NAME — types out character by character -->
+<a href="https://github.com/ahmed-raza19">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=65&duration=4000&pause=1000&color=FF3CAC&center=true&vCenter=true&repeat=true&width=550&height=80&lines=Ahmed+Raza" alt="Ahmed Raza" />
+</a>
+
+<!-- ANIMATED SUBTITLE — separate animation, different color -->
+<a href="https://github.com/ahmed-raza19">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&repeat=true&width=650&height=35&lines=%E2%9A%A1+AI+Engineer+%E2%80%A2+Full-Stack+Developer+%E2%80%A2+Edge+Computing+%E2%9A%A1;%F0%9F%94%A5+Building+systems+that+see%2C+think+%26+act+%F0%9F%94%A5;%F0%9F%8E%93+BS+Artificial+Intelligence+%40+FAST+NUCES+%F0%9F%8E%93" alt="Subtitle" />
+</a>
+
+<br>
+
+<!-- GRADIENT UNDERLINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF3CAC,25:784BA0,50:2B86C5,75:A855F7,100:FF3CAC" width="50%"/>
 
 <br>
 
@@ -243,13 +260,6 @@ Ride-hailing platform inspired by **Uber/Careem/InDrive** — connects riders wi
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmed-raza19&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=10&cache_seconds=86400" width="42%" alt="Top Languages"/>
 </a>
 
-<br><br>
-
-<!-- TROPHIES -->
-<a href="https://github.com/ahmed-raza19">
-  <img src="https://github-profile-trophy-rust.vercel.app/?username=ahmed-raza19&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="GitHub Trophies"/>
-</a>
-
 </div>
 
 <br>
@@ -365,16 +375,84 @@ jobs:
 
 ## ⚡ Quick Stats
 
-```text
-🔥 Repos Built:        18+ and counting
-🧠 Primary Focus:      AI / ML / Computer Vision
-🌐 Secondary Focus:    Full-Stack Web Development
-🤖 Specialty:          Edge AI + IoT Systems
-📍 Based in:           Islamabad, Pakistan
-🎓 University:         FAST NUCES (BS AI)
-🔭 Currently Building: AI-powered assistive tech
-💬 Ask me about:       Python, RAG, Edge Computing, YOLO
-```
+<table>
+<tr>
+<td align="center" width="25%">
+
+🔥
+
+**18+**
+
+Repos Built
+
+</td>
+<td align="center" width="25%">
+
+🧠
+
+**AI / ML**
+
+Primary Focus
+
+</td>
+<td align="center" width="25%">
+
+🌐
+
+**Full-Stack**
+
+Secondary Focus
+
+</td>
+<td align="center" width="25%">
+
+🤖
+
+**Edge AI**
+
+Specialty
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+📍
+
+**Pakistan**
+
+Islamabad
+
+</td>
+<td align="center">
+
+🎓
+
+**FAST NUCES**
+
+BS AI
+
+</td>
+<td align="center">
+
+🔭
+
+**Assistive Tech**
+
+Currently Building
+
+</td>
+<td align="center">
+
+💬
+
+**Python, RAG**
+
+Ask Me About
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -415,7 +493,7 @@ jobs:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&color=0:FF3CAC,50:784BA0,100:2B86C5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&color=0:FF3CAC,50:A855F7,100:6366F1" width="100%"/>
 
 </div>
 
@@ -427,6 +505,6 @@ jobs:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:92FE9D,25:00C9FF,50:2B86C5,75:784BA0,100:FF3CAC&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FF3CAC,25:A855F7,50:6366F1,75:4F46E5,100:312E81&section=footer&animation=twinkling" width="100%"/>
 
 </div>

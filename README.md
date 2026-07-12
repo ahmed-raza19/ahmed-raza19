@@ -10,12 +10,12 @@
 <br>
 
 ```
-  █████╗ ██╗  ██╗███╗   ███╗███████╗██████╗ 
- ██╔══██╗██║  ██║████╗ ████║██╔════╝██╔══██╗
- ███████║███████║██╔████╔██║█████╗  ██║  ██║
- ██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║
- ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝ 
+ █████╗ ██╗  ██╗███╗   ███╗███████╗██████╗ 
+██╔══██╗██║  ██║████╗ ████║██╔════╝██╔══██╗
+███████║███████║██╔████╔██║█████╗  ██║  ██║
+██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║
+██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝ 
 ```
 
 <!-- ANIMATED SUBTITLE -->
@@ -254,6 +254,11 @@ Ride-hailing platform inspired by **Uber/Careem/InDrive** — connects riders wi
 <a href="https://github.com/ahmed-raza19">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmed-raza19&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=10&cache_seconds=86400" width="42%" alt="Top Languages"/>
 </a>
+
+<br><br>
+
+<!-- LANGUAGE ICONS -->
+<a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,c&theme=dark" alt="Languages"/></a>
 
 </div>
 

@@ -7,7 +7,7 @@
 <!-- GRADIENT TOP LINE -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:FF3CAC,25:784BA0,50:2B86C5,75:00C9FF,100:A855F7" width="100%"/>
 
-<br>
+</div>
 
 ```
  █████╗ ██╗  ██╗███╗   ███╗███████╗██████╗ 
@@ -17,6 +17,8 @@
 ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝ 
 ```
+
+<div align="center">
 
 <!-- ANIMATED SUBTITLE -->
 <a href="https://github.com/ahmed-raza19">
@@ -470,16 +472,12 @@ Ask Me About
 
 <div align="center">
 
-<a href="https://github.com/ahmed-raza19" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-ahmed--raza19-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=161b22" alt="GitHub"/>
+<a href="https://www.linkedin.com/in/ahmed-raza-baa81b299/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/ahmed-raza19" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:ahmedraza@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
+<a href="mailto:ahmedrazaaaa87@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-ahmedrazaaaa87-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email"/>
 </a>
 
 <br><br>

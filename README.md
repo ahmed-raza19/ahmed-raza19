@@ -230,7 +230,7 @@ Ride-hailing platform inspired by **Uber/Careem/InDrive** — connects riders wi
 
 <!-- ROW 1: Stats + Streak -->
 <a href="https://github.com/ahmed-raza19">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-raza19&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmed-raza19&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=86400" width="49%" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/ahmed-raza19">
   <img src="https://streak-stats.demolab.com/?user=ahmed-raza19&hide_border=true&background=0d1117&ring=FF3CAC&fire=F97316&currStreakNum=ffffff&currStreakLabel=A855F7&sideNums=ffffff&sideLabels=06B6D4&dates=8b949e" width="49%" alt="GitHub Streak"/>
@@ -240,14 +240,14 @@ Ride-hailing platform inspired by **Uber/Careem/InDrive** — connects riders wi
 
 <!-- ROW 2: Top Languages -->
 <a href="https://github.com/ahmed-raza19">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-raza19&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=10" width="42%" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmed-raza19&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=10&cache_seconds=86400" width="42%" alt="Top Languages"/>
 </a>
 
 <br><br>
 
 <!-- TROPHIES -->
 <a href="https://github.com/ahmed-raza19">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-raza19&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-raza19&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&cache_seconds=86400" width="90%" alt="GitHub Trophies"/>
 </a>
 
 </div>

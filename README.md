@@ -4,26 +4,26 @@
 
 <div align="center">
 
-<!-- HEADER — works in both light & dark mode -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,19,24,30&text=Ahmed%20Raza&fontColor=auto&fontSize=60&fontAlignY=35&animation=twinkling&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Edge%20Computing&descAlignY=55&descSize=17" width="100%"/>
+<!-- HEADER — vibrant gradient, works on light + dark -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FF3CAC,25:784BA0,50:2B86C5,75:00C9FF,100:92FE9D&text=Ahmed%20Raza&fontColor=ffffff&fontSize=65&fontAlignY=35&animation=twinkling&desc=%E2%9A%A1%20AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Edge%20Computing%20%E2%9A%A1&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
 <br>
 
-<!-- TYPING SVG -->
+<!-- TYPING SVG — multi-color cycling -->
 <a href="https://github.com/ahmed-raza19">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=45&lines=%F0%9F%94%A5+Building+AI+systems+that+see%2C+think+%26+act;%F0%9F%A7%A0+From+edge+hardware+to+cloud+architectures;%F0%9F%9A%80+Turning+research+into+real-world+products;%F0%9F%8C%8D+Islamabad%2C+Pakistan+%C2%B7+FAST+NUCES+%C2%B7+BS+AI;%E2%9A%A1+18+repos+%C2%B7+Python+%C2%B7+JavaScript+%C2%B7+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF3CAC&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=45&lines=%F0%9F%94%A5+Building+AI+systems+that+see%2C+think+%26+act;%F0%9F%A7%A0+From+edge+hardware+to+cloud+architectures;%F0%9F%9A%80+Turning+research+into+real-world+products;%F0%9F%8C%8D+Islamabad%2C+Pakistan+%C2%B7+FAST+NUCES+%C2%B7+BS+AI;%E2%9A%A1+18+repos+%C2%B7+Python+%C2%B7+JavaScript+%C2%B7+TypeScript" alt="Typing SVG" />
 </a>
 
 <br>
 
-<!-- PROFILE BADGES -->
-<img src="https://komarev.com/ghpvc/?username=ahmed-raza19&style=for-the-badge&color=6C63FF&labelColor=555555&label=PROFILE+VIEWS" alt="Profile Views"/>
+<!-- PROFILE BADGES — each a different vibrant color -->
+<img src="https://komarev.com/ghpvc/?username=ahmed-raza19&style=for-the-badge&color=FF3CAC&labelColor=1a1b27&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
-<a href="https://github.com/ahmed-raza19?tab=repositories"><img src="https://img.shields.io/badge/REPOS-18-6C63FF?style=for-the-badge&labelColor=555555" alt="Repos"/></a>
+<a href="https://github.com/ahmed-raza19?tab=repositories"><img src="https://img.shields.io/badge/REPOS-18-A855F7?style=for-the-badge&labelColor=1a1b27" alt="Repos"/></a>
 &nbsp;
-<a href="https://github.com/ahmed-raza19?tab=followers"><img src="https://img.shields.io/github/followers/ahmed-raza19?style=for-the-badge&color=6C63FF&labelColor=555555&label=FOLLOWERS" alt="Followers"/></a>
+<a href="https://github.com/ahmed-raza19?tab=followers"><img src="https://img.shields.io/github/followers/ahmed-raza19?style=for-the-badge&color=06B6D4&labelColor=1a1b27&label=FOLLOWERS" alt="Followers"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-6C63FF?style=for-the-badge&labelColor=555555" alt="Focus"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-F97316?style=for-the-badge&labelColor=1a1b27" alt="Focus"/>
 
 </div>
 
@@ -66,7 +66,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ3Z2FrZm93eDBjNTRtY2F0NXBiNWhjcjh5cHF5bWphNGtnYnN3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Animation"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding Animation"/>
 
 </td>
 </tr>
@@ -230,24 +230,24 @@ Ride-hailing platform inspired by **Uber/Careem/InDrive** — connects riders wi
 
 <!-- ROW 1: Stats + Streak -->
 <a href="https://github.com/ahmed-raza19">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-raza19&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-raza19&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/ahmed-raza19">
-  <img src="https://streak-stats.demolab.com/?user=ahmed-raza19&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="49%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ahmed-raza19&hide_border=true&background=0d1117&ring=FF3CAC&fire=F97316&currStreakNum=ffffff&currStreakLabel=A855F7&sideNums=ffffff&sideLabels=06B6D4&dates=8b949e" width="49%" alt="GitHub Streak"/>
 </a>
 
 <br>
 
-<!-- ROW 2: Top Languages + Trophies -->
+<!-- ROW 2: Top Languages -->
 <a href="https://github.com/ahmed-raza19">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-raza19&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" width="42%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-raza19&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=10" width="42%" alt="Top Languages"/>
 </a>
 
 <br><br>
 
 <!-- TROPHIES -->
 <a href="https://github.com/ahmed-raza19">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-raza19&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-raza19&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="GitHub Trophies"/>
 </a>
 
 </div>
@@ -262,7 +262,7 @@ Ride-hailing platform inspired by **Uber/Careem/InDrive** — connects riders wi
 
 <!-- CONTRIBUTION GRAPH -->
 <a href="https://github.com/ahmed-raza19">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-raza19&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-raza19&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A855F7&line=FF3CAC&point=06B6D4&area=true&area_color=784BA0" width="95%" alt="Contribution Graph"/>
 </a>
 
 </div>
@@ -289,18 +289,23 @@ Ride-hailing platform inspired by **Uber/Careem/InDrive** — connects riders wi
 
 </div>
 
-<!-- 🐍 HOW TO ACTIVATE THE SNAKE:
+<!-- 🐍 HOW TO ACTIVATE THE SNAKE (FIXED — previous version had a permissions error):
 
-1. In your profile repo (ahmed-raza19/ahmed-raza19), create the file:
-   .github/workflows/snake.yml
-
-2. Paste this EXACT content into it:
+1. Go to your profile repo: github.com/ahmed-raza19/ahmed-raza19
+2. Go to: Settings → Actions → General → Workflow permissions
+3. Select "Read and write permissions" → Save
+4. Delete the old snake.yml if it exists
+5. Create the file: .github/workflows/snake.yml
+6. Paste this EXACT content:
 
 name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -312,6 +317,8 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -320,8 +327,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-3. Go to your repo's Actions tab and run "Generate Snake" manually once.
-4. Done! The snake will auto-update daily.
+7. Go to Actions tab → "Generate Snake" → Run workflow
+8. Done! Updates daily.
 -->
 
 <br>
@@ -339,7 +346,7 @@ jobs:
 ## 💭 Random Dev Quote
 
 <a href="https://github.com/ahmed-raza19">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="70%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="70%"/>
 </a>
 
 </div>
@@ -408,7 +415,7 @@ jobs:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&color=0:0d1117,50:161b22,100:1a73e8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&color=0:FF3CAC,50:784BA0,100:2B86C5" width="100%"/>
 
 </div>
 
@@ -420,6 +427,6 @@ jobs:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1a73e8,50:163d6b,100:0d1117&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:92FE9D,25:00C9FF,50:2B86C5,75:784BA0,100:FF3CAC&section=footer&animation=twinkling" width="100%"/>
 
 </div>

@@ -7,31 +7,26 @@
 <!-- GRADIENT TOP LINE -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:FF3CAC,25:784BA0,50:2B86C5,75:00C9FF,100:A855F7" width="100%"/>
 
-<br><br>
+<br>
 
-<!-- ANIMATED NAME — types out character by character -->
-<a href="https://github.com/ahmed-raza19">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=65&duration=4000&pause=1000&color=FF3CAC&center=true&vCenter=true&repeat=true&width=550&height=80&lines=Ahmed+Raza" alt="Ahmed Raza" />
-</a>
+```
+  █████╗ ██╗  ██╗███╗   ███╗███████╗██████╗ 
+ ██╔══██╗██║  ██║████╗ ████║██╔════╝██╔══██╗
+ ███████║███████║██╔████╔██║█████╗  ██║  ██║
+ ██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║
+ ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
+ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝ 
+```
 
-<!-- ANIMATED SUBTITLE — separate animation, different color -->
+<!-- ANIMATED SUBTITLE -->
 <a href="https://github.com/ahmed-raza19">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&repeat=true&width=650&height=35&lines=%E2%9A%A1+AI+Engineer+%E2%80%A2+Full-Stack+Developer+%E2%80%A2+Edge+Computing+%E2%9A%A1;%F0%9F%94%A5+Building+systems+that+see%2C+think+%26+act+%F0%9F%94%A5;%F0%9F%8E%93+BS+Artificial+Intelligence+%40+FAST+NUCES+%F0%9F%8E%93" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%E2%9A%A1+AI+Engineer+%E2%80%A2+Full-Stack+Developer+%E2%80%A2+Edge+Computing+%E2%9A%A1;%F0%9F%94%A5+Building+systems+that+see%2C+think+%26+act+%F0%9F%94%A5;%F0%9F%9A%80+Turning+research+into+real-world+products+%F0%9F%9A%80" alt="Subtitle" />
 </a>
 
 <br>
 
 <!-- GRADIENT UNDERLINE -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF3CAC,25:784BA0,50:2B86C5,75:A855F7,100:FF3CAC" width="50%"/>
-
-<br>
-
-<!-- TYPING SVG — multi-color cycling -->
-<a href="https://github.com/ahmed-raza19">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF3CAC&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=45&lines=%F0%9F%94%A5+Building+AI+systems+that+see%2C+think+%26+act;%F0%9F%A7%A0+From+edge+hardware+to+cloud+architectures;%F0%9F%9A%80+Turning+research+into+real-world+products;%F0%9F%8C%8D+Islamabad%2C+Pakistan+%C2%B7+FAST+NUCES+%C2%B7+BS+AI;%E2%9A%A1+18+repos+%C2%B7+Python+%C2%B7+JavaScript+%C2%B7+TypeScript" alt="Typing SVG" />
-</a>
-
-<br>
 
 <!-- PROFILE BADGES — each a different vibrant color -->
 <img src="https://komarev.com/ghpvc/?username=ahmed-raza19&style=for-the-badge&color=FF3CAC&labelColor=1a1b27&label=PROFILE+VIEWS" alt="Profile Views"/>

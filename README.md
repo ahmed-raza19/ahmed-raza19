@@ -247,7 +247,7 @@ Ride-hailing platform inspired by **Uber/Careem/InDrive** — connects riders wi
 
 <!-- TROPHIES -->
 <a href="https://github.com/ahmed-raza19">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-raza19&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&cache_seconds=86400" width="90%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-rust.vercel.app/?username=ahmed-raza19&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="GitHub Trophies"/>
 </a>
 
 </div>

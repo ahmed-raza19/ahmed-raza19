@@ -471,7 +471,7 @@ Ask Me About
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:ahmedrazaaaa87@gmail.com" target="_blank">
+<a href="mailto:ahmedrazaaaa87@gmail.com?subject=Hey%20Ahmed%20%E2%80%93%20Reaching%20Out%20From%20GitHub&body=Hi%20Ahmed%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20connect.%0A%0A" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-ahmedrazaaaa87-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email"/>
 </a>
 

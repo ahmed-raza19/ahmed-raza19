@@ -2,17 +2,20 @@
 <!-- ║                    AHMED RAZA · GITHUB PROFILE                   ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<div align="center">
-
 <!-- GRADIENT TOP LINE -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:FF3CAC,25:784BA0,50:2B86C5,75:00C9FF,100:A855F7" width="100%"/>
 
-<br><br>
+```
+ █████╗ ██╗  ██╗███╗   ███╗███████╗██████╗     
+██╔══██╗██║  ██║████╗ ████║██╔════╝██╔══██╗    
+███████║███████║██╔████╔██║█████╗  ██║  ██║    
+██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║    
+██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝    
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝     
+```
 
-<!-- BOLD NAME — rendered as image, no font issues -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=AHMED%20RAZA&fontColor=FF3CAC&fontSize=85&fontAlignY=50&fontAlign=50&animation=fadeIn&stroke=A855F7&strokeWidth=1" />
+<div align="center">
 
-<br>
 
 <!-- ANIMATED SUBTITLE -->
 <a href="https://github.com/ahmed-raza19">

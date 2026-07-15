@@ -24,8 +24,6 @@
 
 <br>
 
-<!-- GRADIENT UNDERLINE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF3CAC,25:784BA0,50:2B86C5,75:A855F7,100:FF3CAC" width="50%"/>
 
 <!-- PROFILE BADGES — each a different vibrant color -->
 <img src="https://komarev.com/ghpvc/?username=ahmed-raza19&style=for-the-badge&color=FF3CAC&labelColor=1a1b27&label=PROFILE+VIEWS" alt="Profile Views"/>

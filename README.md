@@ -157,6 +157,8 @@ Low-latency **spatial awareness** and computer vision pipeline — an automated 
 
 `Python` `OpenCV` `Edge AI` `Computer Vision`
 
+▶️ [**Watch the demo**](https://drive.google.com/file/d/1FF9CtHqbxq1pq8Tp9HdqUXWk8n4GvDZg/view)
+
 </td>
 <td width="50%" valign="top">
 
@@ -247,9 +249,12 @@ Ride-hailing platform inspired by **Uber/Careem/InDrive** — connects riders wi
 
 <br>
 
-<!-- ROW 2: Top Languages -->
+<!-- ROW 2: Top Languages + Productive Time -->
 <a href="https://github.com/ahmed-raza19">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmed-raza19&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=10&cache_seconds=1800" width="42%" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmed-raza19&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=10&hide=c%2B%2B%2Cassembly&cache_seconds=1800" width="51%" alt="Top Languages"/>
+</a>
+<a href="https://github.com/ahmed-raza19">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmed-raza19&theme=radical&utcOffset=5" width="47%" alt="Productive Time"/>
 </a>
 
 <br><br>
@@ -469,7 +474,7 @@ Ask Me About
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ahmed-raza-baa81b299/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D&labelColor=1a1b27" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:ahmedrazaaaa87@gmail.com?subject=Hey%20Ahmed%20%E2%80%93%20Reaching%20Out%20From%20GitHub&body=Hi%20Ahmed%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20connect.%0A%0A" target="_blank">

@@ -1,6 +1,6 @@
 // Generates the self-hosted parts of the profile README. Run by .github/workflows/update-profile.yml.
 //
-//   1. activity-graph.svg: daily contributions for the last 31 days, written to OUT_DIR
+//   1. activity-graph.svg: monthly contributions for the last 12 months, written to OUT_DIR
 //      (the workflow publishes OUT_DIR to the `profile-stats` branch).
 //   2. README.md: rewrites the public repo count in the REPOS badge and the Quick Stats table.
 //
@@ -14,7 +14,7 @@ const USER = process.env.PROFILE_USER || "ahmed-raza19";
 const TOKEN = process.env.GITHUB_TOKEN;
 const OUT_DIR = process.env.OUT_DIR || "dist";
 const README = process.env.README_PATH || "README.md";
-const DAYS = 31;
+const MONTHS = 12;
 
 // Matches the colors the README previously passed to github-readme-activity-graph.
 const THEME = {
@@ -64,15 +64,18 @@ async function fetchStats() {
   ]);
   if (graph.errors?.length) throw new Error(`GraphQL: ${graph.errors.map((e) => e.message).join("; ")}`);
   const { name, contributionsCollection } = graph.data.user;
-  const days = contributionsCollection.contributionCalendar.weeks
-    .flatMap((week) => week.contributionDays)
-    .slice(-DAYS);
-  return { name: name || USER, publicRepos, days };
+  const perMonth = new Map(); // "YYYY-MM" → contributions, in calendar order
+  for (const { date, contributionCount } of contributionsCollection.contributionCalendar.weeks.flatMap((w) => w.contributionDays)) {
+    const month = date.slice(0, 7);
+    perMonth.set(month, (perMonth.get(month) ?? 0) + contributionCount);
+  }
+  const months = [...perMonth].slice(-MONTHS).map(([month, count]) => ({ month, count }));
+  return { name: name || USER, publicRepos, months };
 }
 
 const esc = (s) => String(s).replace(/[&<>"']/g, (c) => `&#${c.charCodeAt(0)};`);
-const fmtDate = (iso, opts) =>
-  new Date(`${iso}T00:00:00Z`).toLocaleDateString("en-US", { timeZone: "UTC", ...opts });
+const fmtMonth = (month, opts) =>
+  new Date(`${month}-01T00:00:00Z`).toLocaleDateString("en-US", { timeZone: "UTC", ...opts });
 
 // "Nice" tick step so the y-axis reads 0, 5, 10… instead of 0, 4.6, 9.2…
 function yScale(max) {
@@ -82,12 +85,12 @@ function yScale(max) {
   return { step, top: Math.max(step, Math.ceil(max / step) * step) };
 }
 
-function renderActivityGraph({ name, days }) {
+function renderActivityGraph({ name, months }) {
   const plot = { left: 80, right: 1160, top: 90, bottom: 340 };
-  const counts = days.map((d) => d.contributionCount);
+  const counts = months.map((m) => m.count);
   const total = counts.reduce((a, b) => a + b, 0);
   const { step, top } = yScale(Math.max(...counts));
-  const x = (i) => plot.left + (i * (plot.right - plot.left)) / Math.max(days.length - 1, 1);
+  const x = (i) => plot.left + (i * (plot.right - plot.left)) / Math.max(months.length - 1, 1);
   const y = (v) => plot.bottom - (v / top) * (plot.bottom - plot.top);
 
   const pts = counts.map((c, i) => [x(i).toFixed(1), y(c).toFixed(1)]);
@@ -103,13 +106,15 @@ function renderActivityGraph({ name, days }) {
     );
   }
   const points = pts.map(([px, py]) => `<circle cx="${px}" cy="${py}" r="4" fill="${THEME.point}"/>`);
-  const xLabels = days.map(
-    (d, i) => `<text x="${pts[i][0]}" y="${plot.bottom + 24}" text-anchor="middle" class="tick">${fmtDate(d.date, { day: "numeric" })}</text>`,
-  );
+  // Year suffix on the first point and each January, so the axis reads "Nov '25 … Jan '26 …"
+  const xLabels = months.map(({ month }, i) => {
+    const label = fmtMonth(month, { month: "short" }) + (i === 0 || month.endsWith("-01") ? ` '${month.slice(2, 4)}` : "");
+    return `<text x="${pts[i][0]}" y="${plot.bottom + 24}" text-anchor="middle" class="tick">${label}</text>`;
+  });
 
   const title = `${name}'s Contribution Graph`;
-  const first = fmtDate(days[0].date, { month: "short", day: "numeric" });
-  const last = fmtDate(days.at(-1).date, { month: "short", day: "numeric", year: "numeric" });
+  const first = fmtMonth(months[0].month, { month: "short", year: "numeric" });
+  const last = fmtMonth(months.at(-1).month, { month: "short", year: "numeric" });
   const subtitle = `${total} contributions · ${first} – ${last}`;
   const updated = new Date().toISOString().slice(0, 16).replace("T", " ");
 
@@ -138,7 +143,7 @@ function renderActivityGraph({ name, days }) {
   ${points.join("\n  ")}
   ${xLabels.join("\n  ")}
   <text x="30" y="${(plot.top + plot.bottom) / 2}" text-anchor="middle" transform="rotate(-90 30 ${(plot.top + plot.bottom) / 2})" class="axis">Contributions</text>
-  <text x="${(plot.left + plot.right) / 2}" y="${plot.bottom + 52}" text-anchor="middle" class="axis">Days</text>
+  <text x="${(plot.left + plot.right) / 2}" y="${plot.bottom + 52}" text-anchor="middle" class="axis">Months</text>
   <text x="1184" y="408" text-anchor="end" class="stamp">Updated ${updated} UTC</text>
 </svg>
 `;
@@ -166,5 +171,5 @@ async function updateReadme(count) {
 const stats = await fetchStats();
 await mkdir(OUT_DIR, { recursive: true });
 await writeFile(path.join(OUT_DIR, "activity-graph.svg"), renderActivityGraph(stats));
-console.log(`activity-graph.svg: ${stats.days.length} days → ${OUT_DIR}`);
+console.log(`activity-graph.svg: ${stats.months.length} months → ${OUT_DIR}`);
 await updateReadme(stats.publicRepos);

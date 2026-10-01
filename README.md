@@ -30,6 +30,6 @@ BS Artificial Intelligence @ FAST NUCES · Islamabad, Pakistan · Open to AI/ML 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmed-raza19&show_icons=true&include_all_commits=true&count_private=true&hide=stars%2Cissues&hide_rank=true&hide_border=true&cache_seconds=1800&bg_color=ffffff&title_color=1f2328&text_color=59636e&icon_color=0969da" width="420" alt="GitHub stats">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmed-raza19&layout=compact&langs_count=4&hide_border=true&cache_seconds=1800&bg_color=0d1117&title_color=e6edf3&text_color=9198a1">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmed-raza19&layout=compact&langs_count=4&hide_border=true&cache_seconds=1800&bg_color=ffffff&title_color=1f2328&text_color=59636e" width="300" alt="Top languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmed-raza19&layout=compact&langs_count=4&hide=c%2B%2B%2Cassembly&hide_border=true&cache_seconds=1800&bg_color=0d1117&title_color=e6edf3&text_color=9198a1">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmed-raza19&layout=compact&langs_count=4&hide=c%2B%2B%2Cassembly&hide_border=true&cache_seconds=1800&bg_color=ffffff&title_color=1f2328&text_color=59636e" width="374" alt="Top languages">
 </picture>

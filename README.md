@@ -25,10 +25,10 @@
 <br>
 
 
-<!-- PROFILE BADGES — each a different vibrant color -->
+<!-- PROFILE BADGES — each a different vibrant color (REPOS count is kept current by .github/workflows/update-profile.yml) -->
 <img src="https://komarev.com/ghpvc/?username=ahmed-raza19&style=for-the-badge&color=FF3CAC&labelColor=1a1b27&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
-<a href="https://github.com/ahmed-raza19?tab=repositories"><img src="https://img.shields.io/badge/REPOS-18-A855F7?style=for-the-badge&labelColor=1a1b27" alt="Repos"/></a>
+<a href="https://github.com/ahmed-raza19?tab=repositories"><img src="https://img.shields.io/badge/REPOS-23-A855F7?style=for-the-badge&labelColor=1a1b27" alt="Repos"/></a>
 &nbsp;
 <a href="https://github.com/ahmed-raza19?tab=followers"><img src="https://img.shields.io/github/followers/ahmed-raza19?style=for-the-badge&color=06B6D4&labelColor=1a1b27&label=FOLLOWERS" alt="Followers"/></a>
 &nbsp;
@@ -237,9 +237,9 @@ Ride-hailing platform inspired by **Uber/Careem/InDrive** — connects riders wi
 
 <div align="center">
 
-<!-- ROW 1: Stats + Streak -->
+<!-- ROW 1: Stats + Streak (cache_seconds: this stats server enforces a 2h minimum; update-profile.yml also purges GitHub's image cache every 6h) -->
 <a href="https://github.com/ahmed-raza19">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmed-raza19&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=86400" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmed-raza19&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=1800" width="49%" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/ahmed-raza19">
   <img src="https://streak-stats.demolab.com/?user=ahmed-raza19&hide_border=true&background=0d1117&ring=FF3CAC&fire=F97316&currStreakNum=ffffff&currStreakLabel=A855F7&sideNums=ffffff&sideLabels=06B6D4&dates=8b949e" width="49%" alt="GitHub Streak"/>
@@ -249,7 +249,7 @@ Ride-hailing platform inspired by **Uber/Careem/InDrive** — connects riders wi
 
 <!-- ROW 2: Top Languages -->
 <a href="https://github.com/ahmed-raza19">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmed-raza19&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=10&cache_seconds=86400" width="42%" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmed-raza19&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=10&cache_seconds=1800" width="42%" alt="Top Languages"/>
 </a>
 
 <br><br>
@@ -267,9 +267,9 @@ Ride-hailing platform inspired by **Uber/Careem/InDrive** — connects riders wi
 
 <div align="center">
 
-<!-- CONTRIBUTION GRAPH -->
+<!-- CONTRIBUTION GRAPH (generated every 6h by .github/workflows/update-profile.yml) -->
 <a href="https://github.com/ahmed-raza19">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-raza19&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A855F7&line=FF3CAC&point=06B6D4&area=true&area_color=784BA0" width="95%" alt="Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/ahmed-raza19/ahmed-raza19/profile-stats/activity-graph.svg" width="95%" alt="Contribution Graph"/>
 </a>
 
 </div>
@@ -372,13 +372,14 @@ jobs:
 
 ## ⚡ Quick Stats
 
+<!-- "Repos Built" is kept current by .github/workflows/update-profile.yml -->
 <table>
 <tr>
 <td align="center" width="25%">
 
 🔥
 
-**18+**
+**23+**
 
 Repos Built
 

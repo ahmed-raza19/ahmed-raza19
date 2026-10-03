@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmed Raza&#39;s Contribution Graph</title>
+  <desc id="desc">217 contributions · Nov 2025 – Oct 2026</desc>
+  <defs>
+    <linearGradient id="area-fill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#784BA0" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#784BA0" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; }
+    .title { font-size: 22px; font-weight: 600; fill: #A855F7; }
+    .sub, .axis { font-size: 13px; fill: #8b949e; }
+    .tick { font-size: 12px; fill: #A855F7; }
+    .stamp { font-size: 11px; fill: #8b949e; }
+  </style>
+  <rect width="1200" height="420" rx="6" fill="#0d1117"/>
+  <text x="600" y="42" text-anchor="middle" class="title">Ahmed Raza&#39;s Contribution Graph</text>
+  <text x="600" y="66" text-anchor="middle" class="sub">217 contributions · Nov 2025 – Oct 2026</text>
+  <line x1="80" x2="1160" y1="340.0" y2="340.0" stroke="#21262d"/>
+  <text x="66" y="344.0" text-anchor="end" class="tick">0</text>
+  <line x1="80" x2="1160" y1="290.0" y2="290.0" stroke="#21262d" stroke-dasharray="4 4"/>
+  <text x="66" y="294.0" text-anchor="end" class="tick">10</text>
+  <line x1="80" x2="1160" y1="240.0" y2="240.0" stroke="#21262d" stroke-dasharray="4 4"/>
+  <text x="66" y="244.0" text-anchor="end" class="tick">20</text>
+  <line x1="80" x2="1160" y1="190.0" y2="190.0" stroke="#21262d" stroke-dasharray="4 4"/>
+  <text x="66" y="194.0" text-anchor="end" class="tick">30</text>
+  <line x1="80" x2="1160" y1="140.0" y2="140.0" stroke="#21262d" stroke-dasharray="4 4"/>
+  <text x="66" y="144.0" text-anchor="end" class="tick">40</text>
+  <line x1="80" x2="1160" y1="90.0" y2="90.0" stroke="#21262d" stroke-dasharray="4 4"/>
+  <text x="66" y="94.0" text-anchor="end" class="tick">50</text>
+  <path d="M80.0 340.0 L178.2 235.0 L276.4 280.0 L374.5 200.0 L472.7 340.0 L570.9 130.0 L669.1 210.0 L767.3 135.0 L865.5 205.0 L963.6 330.0 L1061.8 295.0 L1160.0 295.0 L1160.0 340 L80.0 340 Z" fill="url(#area-fill)"/>
+  <path d="M80.0 340.0 L178.2 235.0 L276.4 280.0 L374.5 200.0 L472.7 340.0 L570.9 130.0 L669.1 210.0 L767.3 135.0 L865.5 205.0 L963.6 330.0 L1061.8 295.0 L1160.0 295.0" fill="none" stroke="#FF3CAC" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="80.0" cy="340.0" r="4" fill="#06B6D4"/>
+  <circle cx="178.2" cy="235.0" r="4" fill="#06B6D4"/>
+  <circle cx="276.4" cy="280.0" r="4" fill="#06B6D4"/>
+  <circle cx="374.5" cy="200.0" r="4" fill="#06B6D4"/>
+  <circle cx="472.7" cy="340.0" r="4" fill="#06B6D4"/>
+  <circle cx="570.9" cy="130.0" r="4" fill="#06B6D4"/>
+  <circle cx="669.1" cy="210.0" r="4" fill="#06B6D4"/>
+  <circle cx="767.3" cy="135.0" r="4" fill="#06B6D4"/>
+  <circle cx="865.5" cy="205.0" r="4" fill="#06B6D4"/>
+  <circle cx="963.6" cy="330.0" r="4" fill="#06B6D4"/>
+  <circle cx="1061.8" cy="295.0" r="4" fill="#06B6D4"/>
+  <circle cx="1160.0" cy="295.0" r="4" fill="#06B6D4"/>
+  <text x="80.0" y="364" text-anchor="middle" class="tick">Nov '25</text>
+  <text x="178.2" y="364" text-anchor="middle" class="tick">Dec</text>
+  <text x="276.4" y="364" text-anchor="middle" class="tick">Jan '26</text>
+  <text x="374.5" y="364" text-anchor="middle" class="tick">Feb</text>
+  <text x="472.7" y="364" text-anchor="middle" class="tick">Mar</text>
+  <text x="570.9" y="364" text-anchor="middle" class="tick">Apr</text>
+  <text x="669.1" y="364" text-anchor="middle" class="tick">May</text>
+  <text x="767.3" y="364" text-anchor="middle" class="tick">Jun</text>
+  <text x="865.5" y="364" text-anchor="middle" class="tick">Jul</text>
+  <text x="963.6" y="364" text-anchor="middle" class="tick">Aug</text>
+  <text x="1061.8" y="364" text-anchor="middle" class="tick">Sep</text>
+  <text x="1160.0" y="364" text-anchor="middle" class="tick">Oct</text>
+  <text x="30" y="215" text-anchor="middle" transform="rotate(-90 30 215)" class="axis">Contributions</text>
+  <text x="620" y="392" text-anchor="middle" class="axis">Months</text>
+  <text x="1184" y="408" text-anchor="end" class="stamp">Updated 2026-10-03 21:13 UTC</text>
+</svg>

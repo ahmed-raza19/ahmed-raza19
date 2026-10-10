@@ -28,7 +28,7 @@
 <!-- PROFILE BADGES — each a different vibrant color (REPOS count is kept current by .github/workflows/update-profile.yml) -->
 <img src="https://komarev.com/ghpvc/?username=ahmed-raza19&style=for-the-badge&color=FF3CAC&labelColor=1a1b27&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
-<a href="https://github.com/ahmed-raza19?tab=repositories"><img src="https://img.shields.io/badge/REPOS-23-A855F7?style=for-the-badge&labelColor=1a1b27" alt="Repos"/></a>
+<a href="https://github.com/ahmed-raza19?tab=repositories"><img src="https://img.shields.io/badge/REPOS-24-A855F7?style=for-the-badge&labelColor=1a1b27" alt="Repos"/></a>
 &nbsp;
 <a href="https://github.com/ahmed-raza19?tab=followers"><img src="https://img.shields.io/github/followers/ahmed-raza19?style=for-the-badge&color=06B6D4&labelColor=1a1b27&label=FOLLOWERS" alt="Followers"/></a>
 &nbsp;
@@ -384,7 +384,7 @@ jobs:
 
 🔥
 
-**23+**
+**24+**
 
 Repos Built
 
